@@ -10,15 +10,15 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ### 1. **Domotique - Application Tkinter**
 Une application de gestion de la température et de l'éclairage d'une maison en utilisant **Python** et **Tkinter**.
-- [GitHub](https://github.com/Koffi413/domotique-tkinter)
+- [Application domotique](https://github.com/Koffi413/domotique-tkinter)
 
 ### 2. **Site Web Geoffrey Hinton**
 Un site web pour présenter **Geoffrey Hinton** et ses contributions à l'intelligence artificielle.
-- [GitHub](https://github.com/Koffi413/geoffrey-hinton)
+- [Geoffrey Hinton](https://github.com/Koffi413/geoffrey-hinton)
 
 ### 3. **Gestion de Tâches en Colocation**
 Une application pour aider les colocataires à gérer les tâches ménagères. Créée avec **Vue.js**, **Nuxt.js**, et **MySQL**.
-- [GitHub](https://github.com/Koffi413/colocations)
+- [Colocations](https://github.com/Koffi413/colocations)
 
 ---
 
