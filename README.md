@@ -48,7 +48,7 @@ Je suis actuellement étudiant en **informatique** et passionné par les technol
 
 ## 📫 Contact
 
-Vous pouvez me contacter par email à **[cyriaquek413@gmail.com](mailto:cyriaquek413@gmail.com)** ou sur LinkedIn : [Lien vers ton LinkedIn](www.linkedin.com/in/yao-cyriaque-koffi-20973a351).
+Vous pouvez me contacter par email à **[cyriaquek413@gmail.com](mailto:cyriaquek413@gmail.com)** ou sur LinkedIn : [Cyriaque Koffi](www.linkedin.com/in/yao-cyriaque-koffi-20973a351).
 
 ---
 
